@@ -1,0 +1,11 @@
+{
+  "value": {
+    "MaxEnergyFromSubscriptions": 2147483647,
+    "EnergyLeft": 2147483647,
+    "NextSubscriptionEnergyRechargeAt": null,
+    "OutputAudioEnabled": true
+  },
+  "success": true,
+  "error_id": null,
+  "error": null
+}
